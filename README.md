@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Currently learning Angular and Advanced CSS.<br><br>📈 Always looking to learn more about best practices in web development.<br><br>🚀 Excited to collaborate on projects and gain practical experience.<br><br>🎮 I enjoy playing video games.<br><br>📺 I love watching anime and series.</p>
+<p align="left">🌱 Currently learning Next.js and Advanced CSS.<br><br>📈 Always looking to learn more about best practices in web development.<br><br>🚀 Excited to collaborate on projects and gain practical experience.<br><br>🎮 I enjoy playing video games.<br><br>📺 I love watching anime and series.</p>
 
 ###
 
