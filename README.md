@@ -36,9 +36,9 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
 </div>
 
-<div align="center">
-
 ### 📊 GitHub Stats
+
+<div align="center">
 
 <table>
   <tr>
@@ -51,7 +51,12 @@
   </tr>
 </table>
 
+</div>
+
 ### ✍️ Random Dev Quote
+
+<div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
 </div>
