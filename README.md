@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a passionate <strong>Fullstack Developer in progress</strong> — currently working with <strong>Next.js</strong> and <strong>Python</strong> to build automation-driven systems and smart web applications.  <br>I'm constantly expanding my knowledge in <strong>Angular</strong> and <strong>Java</strong> to strengthen my back-end and front-end foundations.</p>
+<p align="left">I'm a passionate <strong>Fullstack Developer in progress</strong> currently working with <strong>Next.js</strong> and <strong>Python</strong> to build automation-driven systems and smart web applications. I'm constantly expanding my knowledge in <strong>Angular</strong> and <strong>Java</strong> to strengthen my back-end and front-end foundations.</p>
 
 ###
 
