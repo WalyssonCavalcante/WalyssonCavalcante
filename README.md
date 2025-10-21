@@ -36,11 +36,22 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
 </div>
 
-###
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WalyssonCavalcante&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WalyssonCavalcante&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=WalyssonCavalcante&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalyssonCavalcante&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+</div>
