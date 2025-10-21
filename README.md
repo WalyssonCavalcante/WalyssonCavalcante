@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 I'm a passionate <strong>Fullstack Developer in progress</strong> — currently working with <strong>Next.js</strong> and <strong>Python</strong> to build automation-driven systems and smart web applications.  <br>I'm constantly expanding my knowledge in <strong>Angular</strong> and <strong>Java</strong> to strengthen my back-end and front-end foundations.</p>
+<p align="left">I'm a passionate <strong>Fullstack Developer in progress</strong> — currently working with <strong>Next.js</strong> and <strong>Python</strong> to build automation-driven systems and smart web applications.  <br>I'm constantly expanding my knowledge in <strong>Angular</strong> and <strong>Java</strong> to strengthen my back-end and front-end foundations.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Currently deepening my skills in <strong>Next.js</strong> (React ecosystem) and <strong>Python</strong> for building dynamic and automated solutions.<br><br><br>📚 Studying <strong>Java</strong> and <strong>Angular</strong> to become a truly complete <strong>Fullstack Developer</strong>.<br><br><br>🤖 Working with <strong>n8n</strong> and <strong>AI agents</strong> to automate workflows and enhance systems integration.<br><br><br>🏗️ Enthusiastic about <strong>Clean Architecture, Design Patterns</strong> and writing code that scales with clarity.<br><br><br>🎯 My goal: design, build and deliver software that connects technology, automation and intelligence.<br><br><br>🎮 Outside of coding, I enjoy playing games and watching anime and series — creativity keeps the code flowing.</p>
+<p align="left">🌱 Currently deepening my skills in <strong>Next.js</strong> (React ecosystem) and <strong>Python</strong> for building dynamic and automated solutions.<br>📚 Studying <strong>Java</strong> and <strong>Angular</strong> to become a truly complete <strong>Fullstack Developer</strong>.<br>🤖 Working with <strong>n8n</strong> and <strong>AI agents</strong> to automate workflows and enhance systems integration.<br>🏗️ Enthusiastic about <strong>Clean Architecture, Design Patterns</strong> and writing code that scales with clarity.<br>🎯 My goal: design, build and deliver software that connects technology, automation and intelligence.<br>🎮 Outside of coding, I enjoy playing games and watching anime and series — creativity keeps the code flowing.</p>
 
 ###
 
@@ -35,6 +35,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
 </div>
+
+###
+
+<h2 align="left">📊 GitHub Stats:</h2>
 
 ###
 
