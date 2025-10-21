@@ -36,7 +36,11 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
 </div>
 
-### 📊 GitHub Stats
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
 
 <div align="center">
 
@@ -52,8 +56,11 @@
 </table>
 
 </div>
+###
 
-### ✍️ Random Dev Quote
+<h2 align="left">✍️ Random Dev Quote</h2>
+
+###
 
 <div align="center">
 
