@@ -38,23 +38,9 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats:</h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=WalyssonCavalcante&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WalyssonCavalcante&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-###
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=WalyssonCavalcante&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    height="150"
-    alt="stats graph"
-    style="display: inline-block;" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=WalyssonCavalcante&layout=compact&theme=radical&langs_count=6"
-    height="150"
-    alt="languages graph"
-    style="display: inline-block;" 
-  />
-</div>
-
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
