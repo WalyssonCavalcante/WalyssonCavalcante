@@ -1,3 +1,11 @@
+<table>
+  <tr>
+    <td>
+      <img   src="https://camo.githubusercontent.com/b268832e6ab21e562f273c3b63fd08665b8429a21bcbf4d3fcca7aac3358c312/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d666630303030"/>
+    </td>  
+  </tr>
+</table>
+
 <h1 align="left">Hello! 👋 I'm an Aspiring FullStack Developer</h1>
 
 ###
