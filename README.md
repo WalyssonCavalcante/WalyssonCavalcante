@@ -47,10 +47,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=WalyssonCavalcante&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=WalyssonCavalcante&show_icons=true&theme=radical&hide_border=false&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalyssonCavalcante&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalyssonCavalcante&layout=compact&theme=radical&hide_border=false" />
     </td>
   </tr>
 </table>
